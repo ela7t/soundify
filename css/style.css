@@ -1,0 +1,19 @@
+body {
+    background: #121212;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+button {
+    padding: 15px;
+    font-size: 18px;
+    background: #1db954;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+iframe {
+    margin-top: 20px;
+}
